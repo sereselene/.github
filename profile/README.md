@@ -1,6 +1,6 @@
-# sereselene
+# RS3 Plugins and API Developer Library
 
-Welcome to sereselene. I build and maintain plugins for the RS3 game client, focused on quality of life improvements that fit into how you already play, along with libraries for other plugin developers. Feedback and ideas are always welcome.
+Hi I'm Sereselene and welcome to my github! I build and maintain plugins for the RS3 game client, focused on quality of life improvements that fit into how you already play, along with libraries for other plugin developers. Feedback and ideas are always welcome.
 
 Guides, install steps and everything else live on **[sereselene.dev](https://sereselene.dev)**.
 
