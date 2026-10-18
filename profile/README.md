@@ -24,6 +24,6 @@ Guides, install steps and everything else live on **[sereselene.dev](https://ser
 
 | You want to | Go here |
 | --- | --- |
-| Report a bug, suggest a feature or fix a guide | [rs3-plugins-bugs issues](https://github.com/sereselene/rs3-plugins-bugs/issues/new/choose) |
-| Ask a question or talk an idea through | [rs3-plugins-bugs discussions](https://github.com/sereselene/rs3-plugins-bugs/discussions) |
+| Report a bug, suggest a feature or fix a guide | [rs3-plugins-feedback issues](https://github.com/sereselene/rs3-plugins-feedback/issues/new/choose) |
+| Ask a question or talk an idea through | [rs3-plugins-feedback discussions](https://github.com/sereselene/rs3-plugins-feedback/discussions) |
 | Report something that could put accounts at risk | Email **hi@sereselene.dev** |
